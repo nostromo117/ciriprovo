@@ -1,0 +1,17 @@
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\PlayerMager.deps.json
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\PlayerMager.dll
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\PlayerMager.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.csproj.AssemblyReference.cache
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.AssemblyInfoInputs.cache
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.AssemblyInfo.cs
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.csproj.CoreCompileInputs.cache
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.dll
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\refint\PlayerMager.dll
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\ref\PlayerMager.dll
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\Player.Commons.dll
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\Players.dll
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\Player.Commons.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\bin\Debug\net5.0\Players.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\PlayerMager\obj\Debug\net5.0\PlayerMager.csproj.CopyComplete

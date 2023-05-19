@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp3/1.0.0": {
+        "dependencies": {
+          "Player.Commons": "1.0.0",
+          "PlayerMager": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp3.dll": {}
+        }
+      },
+      "Player.Commons/1.0.0": {
+        "runtime": {
+          "Player.Commons.dll": {}
+        }
+      },
+      "PlayerMager/1.0.0": {
+        "dependencies": {
+          "Player.Commons": "1.0.0",
+          "Players": "1.0.0"
+        },
+        "runtime": {
+          "PlayerMager.dll": {}
+        }
+      },
+      "Players/1.0.0": {
+        "dependencies": {
+          "Player.Commons": "1.0.0"
+        },
+        "runtime": {
+          "Players.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Player.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerMager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Players/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

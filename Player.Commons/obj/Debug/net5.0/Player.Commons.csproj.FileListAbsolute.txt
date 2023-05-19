@@ -1,0 +1,12 @@
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\bin\Debug\net5.0\Player.Commons.deps.json
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\bin\Debug\net5.0\Player.Commons.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\bin\Debug\net5.0\Player.Commons.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.csproj.AssemblyReference.cache
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.AssemblyInfoInputs.cache
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.AssemblyInfo.cs
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.csproj.CoreCompileInputs.cache
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\refint\Player.Commons.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\Player.Commons.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\Player.Commons\obj\Debug\net5.0\ref\Player.Commons.dll

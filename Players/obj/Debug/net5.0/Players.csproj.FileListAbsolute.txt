@@ -1,0 +1,15 @@
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.csproj.AssemblyReference.cache
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.AssemblyInfoInputs.cache
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.AssemblyInfo.cs
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.csproj.CoreCompileInputs.cache
+C:\Users\nostr\source\repos\ConsoleApp3\Players\bin\Debug\net5.0\Players.deps.json
+C:\Users\nostr\source\repos\ConsoleApp3\Players\bin\Debug\net5.0\Players.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Players\bin\Debug\net5.0\Players.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\Players\bin\Debug\net5.0\Player.Commons.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Players\bin\Debug\net5.0\Player.Commons.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.csproj.CopyComplete
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\refint\Players.dll
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\Players.pdb
+C:\Users\nostr\source\repos\ConsoleApp3\Players\obj\Debug\net5.0\ref\Players.dll
